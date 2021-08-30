@@ -30,7 +30,6 @@
  *
  */
 
-alert('Please make sure you are using this on a desktop browser. I am working on the mobile version but for now it works only on desktop browsers 😕');
 
 var paper = function(self, undefined) {
 
